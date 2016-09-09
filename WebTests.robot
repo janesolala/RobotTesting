@@ -7,7 +7,7 @@ Library           XvfbRobot
 ${BROWSER}        gc    # ff ie gc
 ${username}       eficode
 ${REMOTE_ENABLED}    NO
-${password}       testaaja
+${password}       testaaja12
 
 *** Test Cases ***
 FireRobot Test Case
